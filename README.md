@@ -4,7 +4,7 @@
 > Desenvolvi este projeto com o objetivo de aprender sobre o framework ReactJS.
 > React / React Router / Bootstrap / Styled Components
 
-> Para rodar o projeto localmente, clone este repositório
+> Para rodar o projeto localmente, clone este repositório.
 > ```npm install```
 > ```npm start```
 > o projeto estará disponível em ``` http://localhost:3000/ ```
