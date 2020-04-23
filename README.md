@@ -11,5 +11,5 @@
 
 # Linkedin
 
-Gabriel Gonçalves Bastos – https://www.linkedin.com/in/gabriel-goncalves-bastos/
+> Gabriel Gonçalves Bastos – https://www.linkedin.com/in/gabriel-goncalves-bastos/
 
