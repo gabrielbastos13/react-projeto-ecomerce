@@ -4,10 +4,10 @@
 > Desenvolvi este projeto com o objetivo de aprender sobre o framework ReactJS.
 > React / React Router / Bootstrap / Styled Components
 
-> <p> Para rodar o projeto localmente, clone este repositório. </p>
-> <p> ```npm install``` </p>
-> <p> ```npm start``` </p>
-> <p>o projeto estará disponível em ``` http://localhost:3000/ ``` </p>
+> Para rodar o projeto localmente, clone este repositório. 
+>  ```npm install``` 
+>  ```npm start``` 
+> o projeto estará disponível em ``` http://localhost:3000/ ``` 
 
 # Linkedin
 
